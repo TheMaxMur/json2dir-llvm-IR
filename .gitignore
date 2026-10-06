@@ -1,0 +1,6 @@
+/json2dir
+/.build/
+__pycache__/
+*.bc
+*.o
+*.dSYM/
